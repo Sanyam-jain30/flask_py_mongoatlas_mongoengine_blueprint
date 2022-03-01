@@ -1,0 +1,1 @@
+# flask_py_mongoatlas_mongoengine_blueprint
